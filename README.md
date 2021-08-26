@@ -21,7 +21,7 @@ You can also set the log storage location.
 
 AFKChecker.iniでAFKと判断する時間やログの保存場所などを調整できます。
 
-##Installation
+## Installation
 1. Click Code in the upper right corner. Get AFKChecker.py and AFKChecker.ini. 
 2. Use PyInstaller to convert it to an exe file. 
 ```
