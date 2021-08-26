@@ -15,7 +15,7 @@ AFKから復帰した時刻も記録します。
 **キーロガーの様に動作します。危険ではないか必ず調べてください。**
 **問題を見つけたら教えてください。**
 
-##Usage
+## Usage
 You can adjust the time to judge AFK in AFKChecker.ini.
 You can also set the log storage location. 
 
