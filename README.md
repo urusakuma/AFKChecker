@@ -1,17 +1,17 @@
 AFKChecker
 ====
-目的・解決した課題
-対象ユーザ
-アプリを作成した動機
-使用言語
-使用ライブラリ・フレームワークなど
-開発環境
-主な機能
-工夫した点
-実装に苦労した部分と解決方法
-成果
-今後追加したい機能
-改善点や学びたい技術
+# 目的・解決した課題
+# 対象ユーザ
+# アプリを作成した動機
+# 使用言語
+# 使用ライブラリ・フレームワークなど
+# 開発環境
+# 主な機能
+# 工夫した点
+# 実装に苦労した部分と解決方法
+# 成果
+# 今後追加したい機能
+# 改善点や学びたい技術
 Detects AFK and falling asleep. Then logged the time.
 Logged if you do not operate the keyboard, not click the mouse, or not operate the wheel. 
 It also log the time when you returned from AFK.
