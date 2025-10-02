@@ -6,7 +6,7 @@
 - 言語: Python, VBA
 - ライブラリ: mouse, keyboard, PyInstaller
 - ツール: LibreOffice Calc
-- IDE: VSCode
+- IDE: PyCharm
 ## 主な機能
 - パソコンの操作状況から寝落ちを判定
 - 入眠・起床時間をテキスト形式で出力
